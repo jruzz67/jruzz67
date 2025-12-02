@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:jairus1567@gmail.com"><img src="https://img.shields.io/badge/Email-jairus1567@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="https://linkedin.com/in/jairus"><img src="https://img.shields.io/badge/LinkedIn-Jairus%20Raj%20Singh-blue?style=flat&logo=linkedin"></a>
+  <a href="www.linkedin.com/in/jairus-raj-singh-s-36302532a"><img src="https://img.shields.io/badge/LinkedIn-Jairus%20Raj%20Singh-blue?style=flat&logo=linkedin"></a>
   <a href="https://portfolio.jairusrajsingh.me"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat"></a>
 </p>
 
@@ -75,7 +75,7 @@ MLOps • REST APIs • Data Structures & Algorithms • System Design
 ## 🌐 Let’s Connect
 
 📧 jairus1567@gmail.com  
-🔗 [linkedin.com/in/jairus](https://linkedin.com/in/jairus)  
+🔗 [linkedin.com/in/jairus](www.linkedin.com/in/jairus-raj-singh-s-36302532a)  
 🌍 [portfolio.jairusrajsingh.me](https://portfolio.jairusrajsingh.me)  
 🐙 [github.com/jruzz67](https://github.com/jruzz67) (working on a cleaner handle 😉)
 
