@@ -67,7 +67,7 @@ MLOps • REST APIs • Data Structures & Algorithms • System Design
 - AWS: Cloud Practitioner Essentials; Developing Machine Learning Solutions
 - Microsoft: Azure AI Fundamentals
 - IEEE Xtreme 18.0 – Global Rank 1183
-- Smart India Hackathon 2025 – Cleared Institutional Round
+- Smart India Hackathon 2024 & 2025 – Cleared Institutional Round
 - Thiran2k25 Emotional Chatbot Challenge – Finalist 
 
 ---
