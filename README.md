@@ -1,84 +1,44 @@
 <h1 align="center">Hi 👋, I'm Jairus Raj Singh S</h1>
-<h3 align="center">AI/ML Enthusiast • Full-Stack Developer • CSE @ Sri Krishna College of Technology (2027)</h3>
+<h3 align="center">AI/ML • RAG • Real-time Voice Agents • Full-Stack • CSE @ SKCT '27</h3>
 
 <p align="center">
-  <a href="mailto:jairus1567@gmail.com"><img src="https://img.shields.io/badge/Email-jairus1567@gmail.com-blue?style=flat&logo=gmail"></a>
-  <a href="www.linkedin.com/in/jairus-raj-singh-s-36302532a"><img src="https://img.shields.io/badge/LinkedIn-Jairus%20Raj%20Singh-blue?style=flat&logo=linkedin"></a>
-  <a href="https://portfolio.jairusrajsingh.me"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat"></a>
+  <a href="mailto:jairus1567@gmail.com"><img src="https://img.shields.io/badge/email-jairus1567@gmail.com-blue?logo=gmail" alt="email"></a>
+  <a href="https://www.linkedin.com/in/jairus-raj-singh-s-36302532a"><img src="https://img.shields.io/badge/linkedin-%40jairus-blue?logo=linkedin" alt="linkedin"></a>
+  <a href="https://portfolio.jairusrajsingh.me"><img src="https://img.shields.io/badge/portfolio-live-black" alt="portfolio"></a>
 </p>
 
----
+<p align="center">Building production-grade RAG systems, voice agents, and full-stack AI applications.</p>
 
-## 🚀 About Me
-Final-year CSE student focused on **AI/ML systems**, **Retrieval-Augmented Generation (RAG)**, **real-time voice agents**, and **full-stack development**. Currently building production-grade intelligent applications using LLMs, vector databases, and modern MLOps practices.
+## 🔥 Projects
 
----
+### Real-Time Full-Duplex Voice RAG Assistant
+`Python • LangChain • pgvector+HNSW • nomic-embedding • FastAPI • Twilio • WebSockets`  
+Streaming conversational agent with re-ranking, hybrid search, and sub-second latency.
 
-## 🛠 AI / ML Projects
+### CareerZync – AI Resume Analyzer & Career Chatbot  
+`React • FastAPI • LangChain • FAISS • Gemini • PyMuPDF`  
+Parses resumes → generates ATS score, skill gaps, and personalized career advice via RAG.
 
-### Real-Time Full-Duplex Voice RAG Assistant  
-`Python • LangChain • nomic-embed-text • pgvector + HNSW • FastAPI • WebSockets • Twilio`  
-- Built a low-latency, streaming voice assistant with advanced re-ranking and hybrid search  
-- Production-grade vector pipeline using PostgreSQL + HNSW indexing  
-- Real-time bidirectional audio via Twilio Media Streams  
-
-### CareerZync-ATS – AI Resume Analyzer & Career Chatbot  
-`React • FastAPI • LangChain • FAISS • Gemini Pro • PyMuPDF`  
-- Parses resumes, extracts skills, and generates keyword + skill-gap reports  
-- Personalized RAG-powered career guidance chatbot  
-
-### HealthSuite – AI-Powered Healthcare Appointment Platform  
-`React • Spring Boot • MySQL • Flask • Gemini API • Tailwind`  
-- Full-stack system with intelligent appointment scheduling and 24/7 AI doctor assistant  
-
----
+### HealthSuite – AI-Powered Healthcare Platform  
+`React • Spring Boot • MySQL • Gemini • Tailwind`  
+Appointment booking system with 24/7 AI triage assistant.
 
 ## 💼 Experience
+**AI Intern — MALARIS Software Solutions**  
+*May–Jun 2025*  
+Built and deployed production voice RAG pipeline with pgvector, HNSW, and Twilio Media Streams.
 
-**AI Intern – MALARIS Software Solutions**  
-*May 2025 – June 2025*  
-- Designed and deployed a production voice-based conversational RAG system  
-- Built scalable vector search pipelines (pgvector + HNSW)  
-- Integrated Twilio, WebSocket streaming, and open-source STT/TTS models  
-
----
-
-## 🧰 Technical Skills
-
-**Languages**  
-Python • Java • JavaScript • SQL  
-
-**AI / ML**  
-LangChain • FAISS • pgvector • Sentence Transformers • Ollama • Gemini • NLP • Vector Search  
-
-**Frameworks & Libraries**  
-FastAPI • Spring Boot • React • Flask • scikit-learn • Pandas • NumPy  
-
-**Tools & Platforms**  
-Docker • Git • AWS (SageMaker) • Snowflake • PostgreSQL • Jupyter  
-
-**Concepts**  
-MLOps • REST APIs • Data Structures & Algorithms • System Design  
-
----
+## 🛠 Tech Stack
+Python • Java • JavaScript • SQL • LangChain • FAISS • pgvector • FastAPI • React • Spring Boot • Docker • AWS • PostgreSQL
 
 ## 🏆 Certifications & Achievements
 - Oracle Vector Search Certified Professional
-- AWS: Cloud Practitioner Essentials; Developing Machine Learning Solutions
-- Microsoft: Azure AI Fundamentals
-- IEEE Xtreme 18.0 – Global Rank 1183
-- Smart India Hackathon 2024 & 2025 – Cleared Institutional Round
-- Thiran2k25 Emotional Chatbot Challenge – Finalist 
+- AWS Certified Cloud Practitioner
+- Microsoft Azure AI Fundamentals
+- IEEE Xtreme 18.0 — Global Rank 1183
+- Smart India Hackathon 2025 — Cleared Institutional Round
 
----
+## 📬 Connect
+jairus1567@gmail.com • [linkedin.com/in/jairus-raj-singh-s-36302532a](https://www.linkedin.com/in/jairus-raj-singh-s-36302532a) • [portfolio.jairusrajsingh.me](https://portfolio.jairusrajsingh.me)
 
-## 🌐 Let’s Connect
-
-📧 jairus1567@gmail.com  
-🔗 [linkedin.com/in/jairus](www.linkedin.com/in/jairus-raj-singh-s-36302532a)  
-🌍 [portfolio.jairusrajsingh.me](https://portfolio.jairusrajsingh.me)  
-🐙 [github.com/jruzz67](https://github.com/jruzz67) (working on a cleaner handle 😉)
-
----
-
-⭐ Thanks for stopping by! Feel free to explore the pinned repositories below.
+<p align="center">Thanks for visiting 👀</p>
