@@ -63,14 +63,12 @@ MLOps • REST APIs • Data Structures & Algorithms • System Design
 ---
 
 ## 🏆 Certifications & Achievements
-
-- Oracle Vector Search Certified Professional  
-- AWS Certified Machine Learning – Specialty (in progress)  
-- AWS Cloud Practitioner  
-- Microsoft Azure AI Fundamentals  
-- IEEE Xtreme 18.0 – Global Rank **1183**  
-- Smart India Hackathon 2025 – Cleared Internal Rounds  
-- Thiran2k25 – Emotional Chatbot (Finalist)  
+- Oracle Vector Search Certified Professional
+- AWS: Cloud Practitioner Essentials; Developing Machine Learning Solutions
+- Microsoft: Azure AI Fundamentals
+- IEEE Xtreme 18.0 – Global Rank 1183
+- Smart India Hackathon 2025 – Cleared Institutional Round
+- Thiran2k25 Emotional Chatbot Challenge – Finalist 
 
 ---
 
