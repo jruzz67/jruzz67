@@ -1,83 +1,86 @@
 <h1 align="center">Hi 👋, I'm Jairus Raj Singh S</h1>
-<h3 align="center">AI/ML Enthusiast • Full Stack Developer • CSE @ SKCT (2027)</h3>
+<h3 align="center">AI/ML Enthusiast • Full-Stack Developer • CSE @ Sri Krishna College of Technology (2027)</h3>
+
+<p align="center">
+  <a href="mailto:jairus1567@gmail.com"><img src="https://img.shields.io/badge/Email-jairus1567@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/jairus"><img src="https://img.shields.io/badge/LinkedIn-Jairus%20Raj%20Singh-blue?style=flat&logo=linkedin"></a>
+  <a href="https://portfolio.jairusrajsingh.me"><img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat"></a>
+</p>
 
 ---
 
-## 🚀 About Me  
-I'm an AI/ML-focused Computer Science student passionate about **building intelligent systems**,  
-developing **full-stack applications**, and working with **LLMs, RAG, vector databases, and MLOps**.
-
-I love creating real-world impactful software — from ML models to scalable backend systems.
+## 🚀 About Me
+Final-year CSE student focused on **AI/ML systems**, **Retrieval-Augmented Generation (RAG)**, **real-time voice agents**, and **full-stack development**. Currently building production-grade intelligent applications using LLMs, vector databases, and modern MLOps practices.
 
 ---
 
-## 🧠 AI / ML Experience  
-- Built a **full-duplex real-time RAG voice assistant** using  
-  `nomic-embed-text`, **advanced re-ranking**, `pgvector + HNSW`, WebSockets, and Twilio.  
-- Experience with **FAISS**, **Sentence Transformers**, **LangChain**, and **Ollama**.  
-- Hands-on ML model building: classification, regression, forecasting.  
-- Strong foundations in **Data Science, NLP, embeddings, vector search, and model deployment**.
+## 🛠 AI / ML Projects
+
+### Real-Time Full-Duplex Voice RAG Assistant  
+`Python • LangChain • nomic-embed-text • pgvector + HNSW • FastAPI • WebSockets • Twilio`  
+- Built a low-latency, streaming voice assistant with advanced re-ranking and hybrid search  
+- Production-grade vector pipeline using PostgreSQL + HNSW indexing  
+- Real-time bidirectional audio via Twilio Media Streams  
+
+### CareerZync-ATS – AI Resume Analyzer & Career Chatbot  
+`React • FastAPI • LangChain • FAISS • Gemini Pro • PyMuPDF`  
+- Parses resumes, extracts skills, and generates keyword + skill-gap reports  
+- Personalized RAG-powered career guidance chatbot  
+
+### HealthSuite – AI-Powered Healthcare Appointment Platform  
+`React • Spring Boot • MySQL • Flask • Gemini API • Tailwind`  
+- Full-stack system with intelligent appointment scheduling and 24/7 AI doctor assistant  
 
 ---
 
-## 💼 Internships  
-### 🔹 **MALARIS Software Solutions — AI Intern (May–June 2025)**  
-- Developed a production-ready **voice-based conversational RAG system**.  
-- Built scalable **pgvector + HNSW** vector search pipelines.  
-- Integrated **WebSocket**, **Twilio**, **NGROK**, and evaluated open-source voice AI models.
+## 💼 Experience
 
-### 🔹 **CodSoft — Data Science Intern (Dec 2024–Jan 2025)**  
-- Built end-to-end ML pipelines using `scikit-learn`.  
-- Performed full EDA, preprocessing, feature engineering, and visualization.  
+**AI Intern – MALARIS Software Solutions**  
+*May 2025 – June 2025*  
+- Designed and deployed a production voice-based conversational RAG system  
+- Built scalable vector search pipelines (pgvector + HNSW)  
+- Integrated Twilio, WebSocket streaming, and open-source STT/TTS models  
 
 ---
 
-## 🛠️ Projects  
-### 🚑 **HealthSuite – Healthcare Appointment Platform**  
-**React • Spring Boot • MySQL • Tailwind • Flask • Gemini API**  
-- Full-stack healthcare system improving scheduling efficiency by **30%**.  
-- Integrated Gemini-based AI assistant for 24/7 doctor support.  
-- Delivered a responsive and optimized UI/UX.
+## 🧰 Technical Skills
 
-### 🧾 **CareerZync-ATS – AI Resume Optimizer**  
-**React+Vite • FastAPI • LangChain • FAISS • PyMuPDF • Gemini API**  
-- Parses resumes and generates ML-powered skill-gap + keyword reports.  
-- Built a personalized RAG chatbot for career guidance.  
+**Languages**  
+Python • Java • JavaScript • SQL  
 
----
+**AI / ML**  
+LangChain • FAISS • pgvector • Sentence Transformers • Ollama • Gemini • NLP • Vector Search  
 
-## 🧰 Technical Skills  
-**Languages:** Python, Java, SQL  
-**ML Libraries:** Pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
-**AI / RAG:** LangChain, FAISS, pgvector, vector DBs, NLP  
-**Frameworks:** Spring Boot, FastAPI, React  
-**Tools:** Docker, Git, VS Code, Jupyter Notebook, PowerBI  
-**Cloud:** AWS (SageMaker), Snowflake  
-**Concepts:** DSA, OOP, REST APIs, MLOps  
+**Frameworks & Libraries**  
+FastAPI • Spring Boot • React • Flask • scikit-learn • Pandas • NumPy  
+
+**Tools & Platforms**  
+Docker • Git • AWS (SageMaker) • Snowflake • PostgreSQL • Jupyter  
+
+**Concepts**  
+MLOps • REST APIs • Data Structures & Algorithms • System Design  
 
 ---
 
-## 🏆 Achievements & Certifications  
-- **AWS Cloud Practitioner Essentials**, **AWS ML Solutions**  
-- **Microsoft Azure AI Fundamentals**  
-- **Oracle Vector Search Certified Professional**  
-- **SWAYAM ML Using Python (Score: 78%)**  
-- IEEE Xtreme (Global Rank: **1183**)  
-- Hackmaster (7ᵗʰ/100+)  
+## 🏆 Certifications & Achievements
+
+- Oracle Vector Search Certified Professional  
+- AWS Certified Machine Learning – Specialty (in progress)  
+- AWS Cloud Practitioner  
+- Microsoft Azure AI Fundamentals  
+- IEEE Xtreme 18.0 – Global Rank **1183**  
+- Smart India Hackathon 2025 – Cleared Internal Rounds  
 - Thiran2k25 – Emotional Chatbot (Finalist)  
-- Smart India Hackathon — Cleared Internal Rounds  
 
 ---
 
-## 🌐 Connect With Me  
-📩 **Email:** jairus1567@gmail.com  
-🔗 **Portfolio:** myportfolio.com  
-💼 **LinkedIn:** linkedin.com/jairus  
-🐙 **GitHub:** github.com/jruzz67  
+## 🌐 Let’s Connect
+
+📧 jairus1567@gmail.com  
+🔗 [linkedin.com/in/jairus](https://linkedin.com/in/jairus)  
+🌍 [portfolio.jairusrajsingh.me](https://portfolio.jairusrajsingh.me)  
+🐙 [github.com/jruzz67](https://github.com/jruzz67) (working on a cleaner handle 😉)
 
 ---
 
-
----
-
-⭐ **Thanks for visiting! Feel free to explore my repositories.**  
+⭐ Thanks for stopping by! Feel free to explore the pinned repositories below.
