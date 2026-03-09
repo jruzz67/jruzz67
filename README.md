@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jairus Raj Singh S</h1>
-<h3 align="center">AI Systems Engineer • LLM & Agentic AI Builder • CSE @ SKCT (2027)</h3>
+<h3 align="center">AI Systems Developer • LLM Applications Builder • CSE @ SKCT (2027)</h3>
 
 <p align="center">
   <a href="mailto:jairus1567@gmail.com">
@@ -17,48 +17,63 @@
 
 ## 🚀 About Me
 
-AI-focused Computer Science undergraduate building **production-ready LLM and multi-agent systems** for real-world automation.
+I'm a Computer Science undergraduate focused on building **LLM-powered applications and AI-enabled backend systems**.
 
-I specialize in:
+My work primarily involves designing **retrieval-based AI systems, multi-step LLM pipelines, and real-time AI interfaces** that can move beyond prototypes into deployable software.
 
-- ⚡ Retrieval-Augmented Generation (RAG) systems
-- 🤖 Agentic AI workflows & orchestration
-- 🎙 Real-time voice AI pipelines
-- 🧠 Vector databases & scalable retrieval
-- 🌐 Backend APIs for AI products
+Areas I frequently work in:
 
-I enjoy turning AI ideas into **deployable systems**, focusing on scalability, latency optimization, and reliability.
+- Retrieval-Augmented Generation (RAG)
+- LLM application architecture
+- Real-time voice AI pipelines
+- Vector databases & semantic search
+- Backend APIs for AI systems
 
----
-
-## 🧠 Featured AI Projects
-
-### 🎙 Real-Time Full-Duplex Voice RAG Assistant
-`Python • LangChain • pgvector (HNSW) • FastAPI • WebSockets • Twilio`
-
-- Built a low-latency streaming voice assistant with hybrid retrieval + re-ranking
-- Designed production-grade vector pipeline using PostgreSQL + HNSW indexing
-- Enabled real-time bidirectional audio communication via Twilio Media Streams
-- Optimized response flow for fast conversational interaction
+I enjoy turning AI ideas into **practical engineering systems** while focusing on reliability, response latency, and scalable design.
 
 ---
 
-### 📄 CareerZync-ATS — AI Resume Analyzer & Career Advisor
-`React • FastAPI • LangChain • FAISS • Gemini API • PyMuPDF`
+## 🧠 Selected Projects
 
-- Developed an ATS-style resume analysis platform with structured LLM workflows
-- Implemented skill extraction, keyword matching, and gap analysis
-- Built a RAG-powered career guidance chatbot using resume context
+### 🎙 Real-Time Voice RAG Assistant  
+`Python • FastAPI • LangChain • pgvector (HNSW) • WebSockets • Twilio`
+
+Built a low-latency voice assistant that retrieves knowledge from a vector database and responds conversationally.
+
+Key aspects:
+
+- Implemented **RAG pipeline using pgvector with HNSW indexing**
+- Enabled **real-time bidirectional audio streaming via Twilio Media Streams**
+- Integrated speech-to-text and text-to-speech components for live interaction
+- Designed backend services for fast retrieval and conversational response flow
 
 ---
 
-### 🧾 AgenticAI Image-Based Bill Management System
+### 📄 CareerZync — AI Resume Analyzer & Career Advisor  
+`React • FastAPI • FAISS • LangChain • Gemini API • PyMuPDF`
+
+Developed a resume analysis platform that evaluates candidate resumes and provides career insights.
+
+Key aspects:
+
+- Extracted skills and keywords from resumes using structured LLM prompts
+- Implemented **semantic similarity search using FAISS embeddings**
+- Built a **RAG-powered chatbot** that answers career questions based on resume context
+- Generated skill-gap insights and learning suggestions
+
+---
+
+### 🧾 AI-Powered Bill Processing System  
 `React • FastAPI • Gemini • Google Vision API • PostgreSQL • OpenCV`
 
-- Designed multi-agent workflow for automated bill digitization
-- Added validation, anomaly detection, and tax-aware consistency checks
-- Integrated OCR fallback and API key rotation for reliability
-- Enabled human-in-the-loop review using confidence scoring
+Developed a system for extracting and validating structured information from bill images.
+
+Key aspects:
+
+- Used **OCR pipelines with fallback handling for extraction reliability**
+- Implemented validation checks for totals, taxes, and consistency
+- Built a modular processing workflow for document ingestion and verification
+- Added confidence scoring to support human-in-the-loop review
 
 ---
 
@@ -67,46 +82,50 @@ I enjoy turning AI ideas into **deployable systems**, focusing on scalability, l
 ### AI Intern — MALARIS Software Solutions  
 📍 Onsite | May 2025 – June 2025
 
-- Architected a production voice-based conversational RAG system
-- Built scalable embedding + vector retrieval pipelines (pgvector + HNSW)
-- Integrated WebSockets, Twilio streaming, and open-source STT/TTS models
-- Improved response latency through caching and retrieval optimizations
+Worked on building a **voice-enabled conversational AI assistant** using retrieval-based techniques.
+
+Contributions included:
+
+- Implemented embedding pipelines and vector retrieval using **pgvector**
+- Built backend services using **FastAPI and WebSockets**
+- Integrated real-time streaming through **Twilio Media Streams**
+- Improved response latency through caching and retrieval optimization
 
 ---
 
-## 🛠 Technical Stack
+## 🛠 Technologies
 
 **Languages**  
 Python • Java • JavaScript • SQL
 
 **AI & LLM Systems**  
-RAG • AI Agents • LangChain • Vector Search • FAISS • pgvector • Sentence Transformers • Gemini API • NLP
+RAG pipelines • LangChain • Vector Search • FAISS • pgvector • Sentence Transformers • Gemini API • NLP
 
-**Backend & APIs**  
-FastAPI • Spring Boot • REST APIs • WebSockets • Flask
+**Backend Development**  
+FastAPI • Spring Boot • Flask • REST APIs • WebSockets
 
-**Databases & Infra**  
-PostgreSQL • MySQL • Docker • AWS (EC2, S3, SageMaker)
+**Databases & Infrastructure**  
+PostgreSQL • MySQL • Docker • AWS (EC2, S3)
 
 **Data & ML**  
 scikit-learn • Pandas • NumPy
 
 **Concepts**  
-System Design • MLOps Basics • Scalable AI Architectures • DSA
+System Design • Scalable AI Systems • MLOps Basics • Data Structures & Algorithms
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 AI-Agentathon (Thiran’26 Hackathon) — 5th Place
-- 🧠 IEEE Xtreme 18.0 — Global Rank 1183
-- 🏆 SMARTATHON (IEEE IAS × L&T) — Team Lead
-- 🏅 Oracle AI Vector Search Certified Professional
-- ☁ AWS Cloud Practitioner Essentials
+- 🥇 **AI-Agentathon (Thiran’26 Hackathon)** — 5th Place
+- 🧠 **IEEE Xtreme 18.0** — Global Rank 1183
+- 🏆 **SMARTATHON (IEEE IAS × L&T)** — Team Lead
+- 🏅 **Oracle AI Vector Search Certified Professional**
+- ☁ **AWS Cloud Practitioner Essentials**
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 📧 jairus1567@gmail.com  
 🔗 https://www.linkedin.com/in/jairus-raj-singh-s-36302532a  
@@ -115,5 +134,6 @@ System Design • MLOps Basics • Scalable AI Architectures • DSA
 
 ---
 
-⭐ I enjoy building AI systems that move beyond demos and into real-world deployment.
-Check out my pinned repositories below 👇
+⭐ I enjoy building AI systems that focus on **practical deployment, retrieval-based reasoning, and real-time interaction**.
+
+Feel free to explore my pinned repositories below 👇
