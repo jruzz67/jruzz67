@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/jairus-raj-singh-s-36302532a">
     <img src="https://img.shields.io/badge/LinkedIn-Jairus%20Raj%20Singh-blue?style=flat&logo=linkedin">
   </a>
-  <a href="https://portfolio.jairusrajsingh.me">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=flat">
-  </a>
 </p>
 
 ---
@@ -75,7 +72,6 @@ Built with:
 
 📧 jairus1567@gmail.com  
 🔗 https://www.linkedin.com/in/jairus-raj-singh-s-36302532a  
-🌍 https://portfolio.jairusrajsingh.me  
 🐙 https://github.com/jruzz67
 
 ---
